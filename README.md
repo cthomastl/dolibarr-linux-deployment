@@ -56,3 +56,8 @@ DevOps: Docker Networking, Port Mapping, Container lifecycle.
 Database Admin: SQL User/Grant management, MariaDB troubleshooting.
 
 Web Development: Apache VirtualHost concepts, PHP environment tuning.
+
+
+Created User
+<img width="935" height="404" alt="image" src="https://github.com/user-attachments/assets/2b065ed4-8b97-4a14-802b-0cf852b15a5b" />
+
