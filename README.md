@@ -10,7 +10,7 @@ Command used: docker run -d -p 8080:80 --name dolibarr dolibarr/dolibarr
 
 Networking: Configured port mapping to expose the internal container port 80 to the host port 8080.
 
-Troubleshooting: Verified connectivity using ping and ip addr to identify the host IP (172.18.213.27) and the Docker bridge gateway (172.17.0.1).
+Troubleshooting: Verified connectivity using ping and ip addr to identify the host IP  and the Docker bridge gateway
 
 2. Transition to Manual LAMP Stack
 To gain more control over the database and filesystem, I migrated to a native installation.
