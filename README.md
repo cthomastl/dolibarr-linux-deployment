@@ -69,7 +69,7 @@ James is able to log in to the server
 <img width="945" height="440" alt="image" src="https://github.com/user-attachments/assets/802c8928-977e-430b-b647-ab48ebef725e" />
 As you can see James doesnt have permissions, lets add those
 <img width="950" height="407" alt="image" src="https://github.com/user-attachments/assets/07d724a3-da05-4447-be1c-ec7b29fce059" />
-James now can add users himself
+James can now add users himself
 <img width="950" height="440" alt="image" src="https://github.com/user-attachments/assets/2772e564-c870-4c5b-8ed2-c2217363c709" />
 
 
