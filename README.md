@@ -44,10 +44,11 @@ Permissions Fix: Resolved "File not writable" errors during installation using c
 5. Network Security
 Configured UFW (Uncomplicated Firewall) to allow inbound traffic on port 80.
 
-Verified service status using systemctl and netstat to ensure the application was listening on all interfaces (0.0.0.0).
- Skills Demonstrated
 
  <img width="941" height="448" alt="image" src="https://github.com/user-attachments/assets/04e58eca-d66d-457b-a36b-4712ed1fe070" />
+
+  Skills Demonstrated
+
 
 System Administration: Linux CLI, Permissions Management, SSH.
 
