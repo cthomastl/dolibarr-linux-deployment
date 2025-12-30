@@ -58,6 +58,15 @@ Database Admin: SQL User/Grant management, MariaDB troubleshooting.
 Web Development: Apache VirtualHost concepts, PHP environment tuning.
 
 
-Created User
+Created User James
 <img width="935" height="404" alt="image" src="https://github.com/user-attachments/assets/2b065ed4-8b97-4a14-802b-0cf852b15a5b" />
+
+James tries to login to the server
+<img width="944" height="437" alt="image" src="https://github.com/user-attachments/assets/7b0c0d37-8558-48f7-bae6-b003fb328433" />
+James is able to log in to the server
+
+<img width="945" height="440" alt="image" src="https://github.com/user-attachments/assets/802c8928-977e-430b-b647-ab48ebef725e" />
+
+
+
 
